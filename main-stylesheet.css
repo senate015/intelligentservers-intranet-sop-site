@@ -1,0 +1,28 @@
+* 
+{
+    font-family: 'Lato', sans-serif;
+    border: solid 1px red; 
+    box-sizing: border-box;
+}
+
+.top-nav-company-logo {
+}
+
+.main-heading h1 {
+    font-size: 64px;
+    font-weight: 0.5;
+    background-color: rgb(61, 25, 25);
+    color: white;
+}
+
+ul.top-nav-left-side > li {
+    display: inline-block;
+}
+
+ul.top-nav-right-side > li {
+    display: inline-block;
+}
+
+header {
+    margin-top: 200px;
+}
